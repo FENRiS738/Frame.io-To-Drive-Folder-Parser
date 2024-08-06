@@ -1,0 +1,6 @@
+frame_venv/
+venv/
+.env
+__pycache__/
+google_cloud_creds.json
+token.json
